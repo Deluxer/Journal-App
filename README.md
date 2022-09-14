@@ -1,6 +1,6 @@
 # Journal app
 
-# development
+## development
 yarn dev
 
 ## Production
